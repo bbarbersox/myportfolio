@@ -136,6 +136,9 @@ p.social a i {
 p.social a.facebook {
   background-color: #4460ae;
 }
+p.social a.github {
+  background-color: #333333;
+}
 p.social a.gplus {
   background-color: #c21f25;
 }
@@ -144,6 +147,9 @@ p.social a.twitter {
 }
 p.social a.instagram {
   background-color: #cd4378;
+}
+p.social a.linkedin {
+  background-color: #4875B4;
 }
 p.social a.email {
   background-color: #4a7f45;
